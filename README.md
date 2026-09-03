@@ -1,8 +1,6 @@
 # Engineering Portfolio — Suraj Duvvapu
 
-A static, no-build-step portfolio site (plain HTML/CSS/JS) in the Apple/Tesla
-aesthetic: one accent color, big whitespace, large type, subtle scroll-reveal
-animation.
+A portfolio of all of my projects and work experience.
 
 ## Structure
 
